@@ -3,7 +3,7 @@
 
 <div style="margin-top: 3rem">
   <div style="flex: 1; ">
-    <p>🚀 I have over 4 years of experience in web development, working with technologies like JavaScript, React, Node.js, and more.</p>
+    <p>🚀 I have over 4 years of experience in web development, working with technologies like JavaScript, React, Python, and more.</p>
     <p>🌐 As a freelancer, I collaborate with clients from various industries, delivering high-quality and custom web solutions.</p>
     <p>📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.</p>
   </div>
